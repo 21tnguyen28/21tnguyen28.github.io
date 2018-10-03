@@ -1,0 +1,133 @@
+#home {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Cardo', serif;
+    font-size: larger; /*This is a comment*/
+    color: #4f5151;
+    background-image: url("laskyscrapers.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 99%;
+    background-position: center;
+    background-color: #e1e8e4;
+}
+#about {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Cardo', serif;
+    font-size: larger; /*This is a comment*/
+    color: white;
+    background-image: url("ferriswheel.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 99%;
+    background-position: center;
+    background-color: #ddd6cc;
+}
+#resume {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Cardo', serif;
+    font-size: larger; /*This is a comment*/
+    background-image: url("pinkflowers.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 99%;
+    background-position: center;
+}
+#portfolio {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Cardo', serif;
+    font-size: larger; /*This is a comment*/
+    background-image: url(lacmalights.JPG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50%;
+    background-position: center;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Cardo', serif;
+}
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f9f9f9;
+}
+#nav li {
+    float: left;
+}
+#nav li a{
+    color: grey;
+    text-decoration: none;
+    display: block;
+    padding: 20px 20px;
+    text-align: center;
+}
+#nav li a:hover{
+    background-color: lightgrey;
+    color: white;
+}
+#hometext{
+    font-size: 60px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 40px;
+}
+#abouttext {
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(255,255,255,0.7);
+}
+#abouttext ul, #abouttext ol{
+    width: 80%;
+    margin: auto;
+}
+#resumetext{
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: rgba(255,255,255,0.7);
+}
+table {
+    margin: auto;
+}
+#socmed {
+    text-align: center;
+}
+mark {
+    background-color: white;
+}
+table {
+    background-color: white;
+    color: black;
+}
+th {
+    background-color: #d8c8b3;
+    color: black;
+}
+td {
+    background-color: #fffab7;
+    color: black;
+}
