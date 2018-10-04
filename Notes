@@ -1,0 +1,5 @@
+press save all in cloud 9
+in the bash:
+    git add .
+    git commit -m "any message"
+    git push
