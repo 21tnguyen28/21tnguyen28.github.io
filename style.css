@@ -36,11 +36,14 @@
     font-family: 'Playfair Display', serif;
     font-family: 'Cardo', serif;
     font-size: larger; /*This is a comment*/
-    background-image: url(lacmalights.JPG);
+    color: black;
+    text-align: center;
+    background-image: url("lacmalights.JPG");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 50%;
     background-position: center;
+    background-color: #fff;
 }
 h1, h2, h3, h4, h5, h6{
     font-family: 'Playfair Display', serif;
